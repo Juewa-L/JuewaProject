@@ -1,5 +1,1 @@
-Git , Python , Harmony OS , Java , C / C++
-
-你们好呀
-
-目前先学 Git
+hello world
